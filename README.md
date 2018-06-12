@@ -4,6 +4,4 @@
 - [学习笔记链接](https://github.com/caozhiqiango/learngit/blob/master/GitNotes.md)
 - 多谢访问^. ^
 
-
-what the fuck!!!
-i still can't work with github.
+使用GUI 来管理git， 减少错误率。
